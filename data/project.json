@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "barbaraboschy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269574462?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "barbaraboschy",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-04-13T21:14:29.120Z",
-    "updated_at": "2026-04-13T21:14:29.120Z"
-  }
+    "updated_at": "2026-04-13T21:14:29.120Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "438f7b1e-6643-45de-80d0-5dc5d4ce8075": {
+      "content": [],
+      "created_at": "2026-04-13T21:14:29.130Z",
+      "created_by": "barbaraboschy",
+      "title": "Womanhood",
+      "updated_at": "2026-04-13T21:14:29.130Z",
+      "updated_by": "barbaraboschy",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "438f7b1e-6643-45de-80d0-5dc5d4ce8075"
+  ]
 }
